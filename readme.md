@@ -20,6 +20,11 @@ mvn spring-boot:run
 ```
 
 ## Test
+To run the unit test:
+```sh
+mvn test
+```
+
 The follwing file contains the test [test.sh](./test.sh) 
 Below are the contents:
 
